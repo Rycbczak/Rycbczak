@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rycbczak
-- 👀 I’m interested in Game Development, Machine Learning and IoT
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on games development
+- 👀 I’m interested in Web and Game Development
+- 🌱 I’m currently HTML, CSS and JavaScript
 - 📫 How to reach me: rycbczak.junior@gmail.com
 
 <!---
