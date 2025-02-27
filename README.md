@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rycbczak
-- 👀 I’m interested in Web and Game Development
-- 🌱 I’m currently HTML, CSS and JavaScript
+- 👀 I’m interested in BackEnd and Game Development
+- 🌱 I’m currently studying Java
 - 📫 How to reach me: rycbczak.junior@gmail.com
 
 <!---
