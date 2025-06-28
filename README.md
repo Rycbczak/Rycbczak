@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rycbczak
 - 👀 I’m interested in BackEnd and Game Development
-- 🌱 I’m currently studying Java
+- 🌱 I’m currently studying Java + SpringBoot + Flutter
 - 📫 How to reach me: rycbczak.junior@gmail.com
 
 <!---
