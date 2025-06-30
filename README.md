@@ -29,11 +29,10 @@ Aberto a estágios, oportunidades júnior e programas de formação.
 ## Informações adicionais
 📚 Inglês - Avançado
 
-👩‍💻 Trabalho atualmente na minha empresa de confeitaria - [Zigzag Bolos](https://www.instagram.com/zigzagbolos/).
+👩‍💻 Sócio Fundador da [Zigzag Bolos](https://www.instagram.com/zigzagbolos/).
 
 💬 Me pergunte sobre a pronuncia do sobrenome, todo mundo pergunta 😆
 
-⚡️ Fatos engraçados
+⚡️ Fatos curiosos
 - Meu sobrenome é mais fácil de pronunciar do que parece 🤣
-- 90% de chance dele estar registrado errado (é sério)
-- Não é Russo e nem Alemão
+- Minha trajetória começou como Técnico em Edificações -> Montador de Móveis -> Auxiliar de Almoxarifado -> Auxiliar de Farmacia Hospitalar -> Empreendedor/Confeiteiro -> Dev Backend (enfim encontrei minha vocação!!!)
