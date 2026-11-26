@@ -23,7 +23,7 @@ Cisco Networking Academy – Junior Cybersecurity Analyst
 
 Networking (TCP/IP, routing, switching, VLANs, subnetting)
 
-Linux Essentials (Ubuntu + Kali)
+Linux Essentials (Debian)
 
 Defensive security fundamentals
 
@@ -31,12 +31,7 @@ Network monitoring tools and methodologies
 
 ## 🛠 Technical Skills
 
-![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-005CFF?style=for-the-badge&logo=securityscan&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-005CFF?style=for-the-badge&logo=nmap&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC143C?style=for-the-badge&logo=hackthebox&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 Security & Networking
 
@@ -87,7 +82,7 @@ IT Security Intern
 
 📫 Contact:
 
-📧 rycbczak.junior@gmail.com
+📧 rycbczak@proton.me
 
 
 ## 🌍 Languages
